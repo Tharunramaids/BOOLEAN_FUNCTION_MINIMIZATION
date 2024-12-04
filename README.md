@@ -16,7 +16,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
+Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions
 
 **Procedure**
 
@@ -35,16 +35,46 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by:Tharun R
+
+RegisterNumber:24005919
+*/
+```
+i)
+module funct1(a,b,c,d,f1);
+input a,b,c,d;
+output f1;
+assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
+endmodule
+
+ii)
+module funct2(w,x,y,z,f2);
+input w,x,y,z;
+output f2;
+assign f2=((~y & z)|( w & y )|(x & y));0
+endmodule
+```
 
 
-**RTL realization**
-
-**Output:**
 
 **RTL**
 
+
+![exp02f1 (2)](https://github.com/user-attachments/assets/4bd27e78-943d-4acd-abf4-aaa58665b7d9)
+
+
+
+![exp02f2](https://github.com/user-attachments/assets/69d95b47-57a7-487b-bace-cb700d84c24b)
+
 **Timing Diagram**
+
+
+![output 02](https://github.com/user-attachments/assets/766139d9-38f8-42b3-9013-4a14b22180fd)
+
+
+
+![output 2-2](https://github.com/user-attachments/assets/56939dcf-32a9-4fbc-aad4-6ec14d5990d2)
+
 
 **Result:**
 
