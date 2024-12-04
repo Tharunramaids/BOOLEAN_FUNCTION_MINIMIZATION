@@ -30,6 +30,11 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 
 5.	For different input combinations generate the timing diagram.
 
+**Truthtable**
+
+![bin](https://github.com/user-attachments/assets/2f4d8b83-d657-4d80-ade5-7664f247ec85)
+
+
 
 **Program:**
 
