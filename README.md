@@ -42,6 +42,14 @@ ii)F2 TRUTHTABLE
 
 ![exp02f2truthtable](https://github.com/user-attachments/assets/269a5435-8b24-4d0d-a0f6-9fffbdd336d4)
 
+**Boolean Minimization**
+
+![boolean minimization 1](https://github.com/user-attachments/assets/7a61606d-de21-4902-86cf-758ee67b929b)
+
+
+![boolean minization 2](https://github.com/user-attachments/assets/e8844f0e-3ef1-4924-a787-8dfbd32b4d41)
+
+
 
 **Program:**
 
