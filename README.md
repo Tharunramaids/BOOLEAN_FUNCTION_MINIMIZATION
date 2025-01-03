@@ -30,6 +30,14 @@ ii)F2 TRUTHTABLE
 
 ![Screenshot 2024-12-13 123722](https://github.com/user-attachments/assets/a657a6f1-71ae-4537-9968-6680b255a37c)
 
+**Boolean minimization**
+
+
+![Screenshot 2025-01-03 134957](https://github.com/user-attachments/assets/545a879a-65e9-4e63-8fd3-060ec450f528)
+
+
+![Screenshot 2025-01-03 135015](https://github.com/user-attachments/assets/afb48d07-0485-46fe-bda1-ba6cda13354a)
+
 **Procedure**
 
 1.	Type the program in Quartus software.
